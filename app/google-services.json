@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "885192659992",
+    "firebase_url": "https://aitpau-7f16f.firebaseio.com",
+    "project_id": "aitpau-7f16f",
+    "storage_bucket": "aitpau-7f16f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885192659992:android:06f6ad08d2b5fb27",
+        "android_client_info": {
+          "package_name": "kz.tnagmetulla.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885192659992-a3e9br5ra4a0iabovqla5hvgmln6nopu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB8hi2zfnJvr-U5rewyqFzUutD7XZRoWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885192659992-a3e9br5ra4a0iabovqla5hvgmln6nopu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

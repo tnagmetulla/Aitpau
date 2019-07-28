@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aitpau</string>
+    <string name="choose_photo_registration">Choose your photo</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
