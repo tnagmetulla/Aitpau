@@ -89,4 +89,15 @@
             app:layout_constraintStart_toStartOf="@+id/password_editText_registration"
             app:layout_constraintTop_toBottomOf="@+id/register_button_registration"
             android:layout_marginTop="8dp"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:id="@+id/avatar_imageView_registration"
+            app:civ_border_color="@android:color/white"
+            app:civ_border_width="2dp"
+            app:layout_constraintEnd_toEndOf="@+id/choose_photo_button_registration"
+            app:layout_constraintBottom_toBottomOf="@+id/choose_photo_button_registration"
+            app:layout_constraintTop_toTopOf="@+id/choose_photo_button_registration"
+            app:layout_constraintStart_toStartOf="@+id/choose_photo_button_registration"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
